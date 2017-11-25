@@ -180,6 +180,9 @@ img.resize {
     margin: 0;
     padding-top: 8px;
     padding-left: 6px;
+    -khtml-user-select: none;
+    -o-user-select: none;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    user-select: none;
 }
-
-.blank {}
