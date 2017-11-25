@@ -113,9 +113,9 @@ h5 {
 .wrapper {
     background: linear-gradient(266deg, #4b134f, #892e4d, #c84a4b);
     background-size: 600% 600%;
-    -webkit-animation: 19s ease infinite;
-    -moz-animation: 19s ease infinite;
-    animation: 19s ease infinite;
+    -webkit-animation: 5s ease infinite;
+    -moz-animation: 5s ease infinite;
+    animation: 5s ease infinite;
     @-webkit-keyframes {
         0% {
             background-position: 0% 50%
