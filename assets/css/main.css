@@ -1,5 +1,4 @@
 @import url(http://fonts.googleapis.com/css?family=Montserrat:400,700);
-
 html {
     height: 100%;
     position: fixed;
@@ -112,6 +111,8 @@ h5 {
 }
 
 img.resize {
-  max-width: 10%;
-  max-height: 10%;
+    max-width: 10%;
+    max-height: 10%;
+    margin: 0;
+    padding: 0;
 }
