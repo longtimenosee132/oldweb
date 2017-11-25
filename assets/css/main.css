@@ -110,3 +110,8 @@ h5 {
     color: #000000;
     transition: 1s linear;
 }
+
+img.resize {
+  max-width:10%;
+  max-height:10%;
+}
