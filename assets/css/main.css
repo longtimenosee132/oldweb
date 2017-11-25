@@ -35,7 +35,7 @@ h5 {
     padding: 0;
     box-sizing: border-box;
     text-decoration: none;
-    font-family: 'Montserrat';
+    font-family: 'Montserrat', sans-serif;
 }
 
 .main-nav {
