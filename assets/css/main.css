@@ -118,7 +118,7 @@ h5 {
     top: 0;
     bottom: 0;
     position: absolute;
-    background: linear-gradient(266deg, #4b134f, #892e4d, #c84a4b);
+    background: linear-gradient(266deg, #4b134f, #892e4d, #c84a4b, #892e4d);
     background-size: 1800% 1800%;
     -webkit-animation: rainbow 18s ease infinite;
     -z-animation: rainbow 18s ease infinite;
