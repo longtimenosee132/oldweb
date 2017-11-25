@@ -111,8 +111,15 @@ h5 {
 }
 
 .wrapper {
+    height: 100%;
+    width: 100%;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    position: absolute;
     background: linear-gradient(266deg, #4b134f, #892e4d, #c84a4b);
-    background-size: 600% 600%;
+    background-size: 1800% 1800%;
     -webkit-animation: animation 5s ease infinite;
     -moz-animation: animation 5s ease infinite;
     -o-animation: animation 5s ease infinite;
