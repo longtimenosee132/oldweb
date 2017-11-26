@@ -108,6 +108,7 @@ h5 {
     border-radius: 16px;
     color: #000000;
     transition: 1s linear;
+    border-style: solid;
 }
 
 #wrapper {
