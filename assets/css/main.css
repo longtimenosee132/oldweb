@@ -179,6 +179,7 @@ img.resize {
     max-width: 3%;
     max-height: 3%;
     margin: 0;
+    padding: 5px;
     -khtml-user-select: none;
     -o-user-select: none;
     -moz-user-select: none;
