@@ -176,8 +176,8 @@ h5 {
 }
 
 img.resize {
-    max-width: 5%;
-    max-height: 5%;
+    max-width: 3%;
+    max-height: 3%;
     margin: 0;
     -khtml-user-select: none;
     -o-user-select: none;
