@@ -100,12 +100,12 @@ h5 {
 .wordbox {
     margin: 30px auto 0;
     display: block;
-    width: 1500px;
-    height: 500px;
+    width: 1250px;
+    height: 750px;
     font-size: 30px;
     text-align: center;
     background: #fff;
-    border-radius: 6px;
+    border-radius: 16px;
     color: #000000;
     transition: 1s linear;
     border: none;
