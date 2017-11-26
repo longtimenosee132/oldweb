@@ -85,8 +85,6 @@ h5 {
     transform: scale(1);
 }
 
-
-
 .style_prevu_kit:hover {
     z-index: 2;
     -webkit-transition: all 200ms ease-in;
