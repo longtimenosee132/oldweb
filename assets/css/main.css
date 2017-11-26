@@ -182,9 +182,4 @@ img.resize {
     max-height: 2%;
     margin: 0;
     padding: 1px;
-    -khtml-user-select: none;
-    -o-user-select: none;
-    -moz-user-select: none;
-    -webkit-user-select: none;
-    user-select: none;
 }
