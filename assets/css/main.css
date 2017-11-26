@@ -41,7 +41,7 @@ h5 {
 .main-nav {
     width: 1000;
     background-color: rgb(255, 255, 255);
-    box-shadow: 0 2px 2px #f7f7f7;
+    box-shadow: 0 2px 2px #eaeaea;
     z-index: 9999;
     position: relative;
     padding: 15px;
