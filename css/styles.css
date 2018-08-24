@@ -1,0 +1,35 @@
+html {
+  background-color: #00bcf1;
+  background-image: linear-gradient(to bottom right, #00bcf1, #180CAC);
+  font-family: "Work sans", sans-serif;
+}
+
+.job,
+.button {
+  font-family: "Lato", "Work sans", sans-serif;
+}
+
+.wallpaper {
+  background-image: url("https://cdn.glitch.com/4068ca01-64ca-49f4-9533-17e963052a81%2Fchicago.jpg?1535054017042");
+}
+
+.job {
+  color: #cbffdc;
+}
+
+.hr {
+  background-color: #00bcf1;
+}
+
+.button {
+  background-color: #303884;
+  color: #cbffdc;
+}
+
+.social a {
+  color: #cbffdc;
+}
+
+.social a:hover {
+  color: #fff;
+}
