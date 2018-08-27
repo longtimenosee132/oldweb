@@ -12,7 +12,7 @@
     <link rel="stylesheet" href="css/styles.css">
     <script defer type="text/javascript" src="js/main.js"></script>
     <script defer src="https://use.fontawesome.com/releases/v5.0.0/js/all.js"></script>
-    <link rel="shortcut icon" type="image/png" href="https://cdn.glitch.com/4068ca01-64ca-49f4-9533-17e963052a81%2Fwumpobai.png?1535066821182">
+    <link rel="shortcut icon" type="image/png" href="https://cdn.glitch.com/4068ca01-64ca-49f4-9533-17e963052a81%2Ftest.png?1535341930814">
   </head>
   <body>
     <div id="wallpaper" class="wallpaper" data-image="https://cdn.glitch.com/4068ca01-64ca-49f4-9533-17e963052a81%2Fchicago.jpg?1535054017042"></div>
@@ -20,8 +20,8 @@
       <aside class="side">
         <figure id="picture" class="picture">
           <div class="picture-shadow"></div>
-          <img id="pictureImage" class="picture-image"
-               src="https://cdn.glitch.com/4068ca01-64ca-49f4-9533-17e963052a81%2Fsunset2.png?1535065618393"
+          <img id="pictureImage" class="picture-image" draggable="false" (dragstart)="false;" 
+               src="https://cdn.glitch.com/4068ca01-64ca-49f4-9533-17e963052a81%2Ftest.png?1535341446190"
                width="320"
                height="320">
         </figure>
@@ -31,22 +31,27 @@
           Aiden Bai
         </h1>
         <p class="job">
-          Front-end Developer
+           front-end developer
         </p>
         <hr class="hr">
         <div class="description">
           <p>
-            I'm a 14 year old nerd attending SMS that spends too much time creating chat bots and websites.
+            Hi there! I'm a middle school student who
+            <span
+              class="txt-rotate"
+              data-period="2000"
+              data-rotate='["creates websites.", "makes chatbots.", "writes javascript.", "designs logos.", "browses discord."]'>
+            </span>
           </p>
         </div>
         <div class="contact">
-          <a class="button" href="mailto:mail.contraband@gmail.com">
+          <a class="button" href="mailto:mail.contraband@gmail.com" target="_blank">
             Contact me
           </a>
         </div>
         <ul class="social">
           <li>
-            <a htarget="_blank">
+            <a target="_blank">
               <i class="fab fa-twitter"></i>
             </a>
           </li>
@@ -56,8 +61,8 @@
             </a>
           </li>
           <li>
-            <a target="_blank">
-              <i class="fab fa-linkedin"></i>
+            <a href="https://instagram.com/innerjoker" target="_blank">
+              <i class="fab fa-instagram"></i>
             </a>
           </li>
 <!--
